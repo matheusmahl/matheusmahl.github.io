@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Matheus Mahl blog
+title: Matheus Mahl
 
 # Short description of your site
 description: Blog pessoal de Matheus Mahl
@@ -23,7 +23,7 @@ description: Blog pessoal de Matheus Mahl
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  Sobre: "aboutme"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
