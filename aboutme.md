@@ -1,16 +1,26 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Sobre
+subtitle: Quem sou eu?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Meu nome é Matheus Mahl, tenho 21 anos;
+Moro no extremo oeste de Santa Catarina;
+Estudo Ciência da Computação na UNOESC-SMO;
+Trabalho com desenvolvimento de sistemas desde 2014.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+#### O que eu já sei
+Trabalho com Delphi, portanto já tenho um bom conhecimento em Pascal.
+Java (Apenas o que aprendi na faculdade).
+PostgreSQL e Firebird (O necessário para utilizar no trabalho).
 
-What else do you need?
 
-### my history
+#### O que estou aprendendo
+Atualmente estou estudando inglês (Já entendo e leio bem).
+Realizando alguns cursos de desenvolvimento web.
+Piano (Apenas como hobbie).
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+
+#### Gostos
+Gosto mais do desenvolvimento back-end (regras de negócio) do que visual.
+Jogos online, principalmente RPGs e alguns FPSs.
