@@ -4,10 +4,10 @@ title: Sobre
 subtitle: Quem sou eu?
 ---
 
-* Meu nome é Matheus Mahl, tenho 21 anos;
-* Moro no extremo oeste de Santa Catarina;
-* Estudo Ciência da Computação na UNOESC-SMO;
-* Trabalho com desenvolvimento de sistemas desde 2014.
+ Meu nome é Matheus Mahl, tenho 21 anos, moro no extremo oeste de Santa Catarina. 
+ 
+ Estudo Ciência da Computação na UNOESC-SMO e trabalho com desenvolvimento de sistemas desde 2014.
+
 
 #### O que eu já sei
 * Trabalho com Delphi, portanto já tenho um bom conhecimento em Pascal.
