@@ -3,6 +3,9 @@ layout: post
 published: false
 title: Como utilizar o protocolo ESC/POS
 ---
-## A New Post
+## O que é o ESC/POS?
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+
+## Tabela ASCII
+
+## Comandos ESC/POS
