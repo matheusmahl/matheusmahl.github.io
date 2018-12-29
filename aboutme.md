@@ -2,9 +2,10 @@
 layout: page
 title: Sobre
 subtitle: Quem sou eu?
+published: true
 ---
 
-Meu nome é Matheus Mahl, tenho 21 anos, moro no extremo oeste de Santa Catarina.  
+Meu nome é Matheus Mahl, tenho 23 anos, moro no extremo oeste de Santa Catarina.  
 Estudo Ciência da Computação na UNOESC-SMO e trabalho com desenvolvimento de sistemas desde 2014.
 
 
@@ -14,10 +15,12 @@ Estudo Ciência da Computação na UNOESC-SMO e trabalho com desenvolvimento de 
 * PostgreSQL e Firebird (O necessário para utilizar no trabalho).
 * Manutenção e suporte em informática.
 * Eletricista.
+* Inglês.
 
 
 #### O que estou aprendendo
-* Atualmente estou estudando inglês (Já entendo e leio bem).
+* Violão.
+* Java, Spring e Angular.
 * Realizando alguns cursos de desenvolvimento web.
 * Piano (Apenas como hobbie).
 
